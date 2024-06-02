@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RenFood</string>
+    <string name="welcome_text">Cooking a Delicious Food Easily</string>
+    <string name="welcome_description">Discover more than 1000 delicious and easy to prepare recipes.</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="login">Login</string>
+    <string name="login_text">Unlock flavor with a touch of authenticity. Sign in now!</string>
+    <string name="forget_password">Did you forget your password?</string>
+</resources>
